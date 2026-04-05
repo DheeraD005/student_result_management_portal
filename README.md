@@ -69,18 +69,3 @@ cd student-result-management
 - Login securely  
 - View academic results  
 
----
-
-## 📌 Future Enhancements
-
-- 📥 Export results as PDF  
-- 📊 Advanced analytics dashboard  
-- 📧 Email notifications  
-- 🔒 Role-based access control  
-
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
