@@ -1,4 +1,4 @@
-# 📊 Student Result Management Portal
+# 📊 student_result_management_portal
 
 A web-based application designed to manage and analyze student academic results efficiently. It enables administrators to handle student records and results, while students can securely access their performance online.
 
@@ -12,6 +12,7 @@ A web-based application designed to manage and analyze student academic results 
 - 📈 Automatic Grade & Percentage Calculation
 - 🔍 Search Functionality (by ID, Name, Class)
 - 📊 Performance Analysis
+- 📥 Export Results as PDF
 - 🌐 Responsive and User-Friendly Interface
 
 ---
@@ -28,7 +29,7 @@ A web-based application designed to manage and analyze student academic results 
 ## 📂 Project Structure
 
 ```
-Student-Result-Management/
+student_result_management_portal/
 │── frontend/
 │── backend/
 │── database/
@@ -42,12 +43,12 @@ Student-Result-Management/
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/student-result-management.git
+git clone https://github.com/your-username/student_result_management_portal.git
 ```
 
 2. Navigate to the project folder:
 ```
-cd student-result-management
+cd student_result_management_portal
 ```
 
 3. Setup the database:
@@ -68,4 +69,3 @@ cd student-result-management
 ### Student
 - Login securely  
 - View academic results  
-
