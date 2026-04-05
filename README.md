@@ -78,11 +78,6 @@ cd student-result-management
 - 📧 Email notifications  
 - 🔒 Role-based access control  
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ---
 
